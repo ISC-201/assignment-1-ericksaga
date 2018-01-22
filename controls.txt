@@ -1,0 +1,4 @@
+A - blue screen
+S - red screen
+D - green screen
+F - dark blue screen
